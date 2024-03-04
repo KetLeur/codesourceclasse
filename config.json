@@ -1,0 +1,13 @@
+{
+    "tableau": [
+        {"journal": "VE", "codetva": 0, "tauxtva": 0.00, "racineclient": 90, "comptetva": null, "comptevente": 704400},
+        {"journal": "VE", "codetva": 1, "tauxtva": 20.00, "racineclient": 91, "comptetva": 445718, "comptevente": 704200},
+        {"journal": "VE", "codetva": 2, "tauxtva": 5.5, "racineclient": 93, "comptetva": 445715, "comptevente": 704100},
+        {"journal": "VE", "codetva": 3, "tauxtva": 10.00, "racineclient": 92, "comptetva": 445714, "comptevente": 704100},
+        {"journal": "VT", "codetva": 0, "tauxtva": 0.00, "racineclient": 90, "comptetva": null, "comptevente": 704400},
+        {"journal": "VT", "codetva": 1, "tauxtva": 20.00, "racineclient": 91, "comptetva": 445718, "comptevente": 701120},
+        {"journal": "VT", "codetva": 2, "tauxtva": 5.50, "racineclient": 93, "comptetva": 445715, "comptevente": 701130},
+        {"journal": "VT", "codetva": 3, "tauxtva": 10.00, "racineclient": 92, "comptetva": 445714, "comptevente": 701110}
+    ]
+    
+}
